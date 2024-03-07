@@ -1,9 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@layer base {
-    .box {
-        @apply rounded border-2 border-black p-2 m-4;
-    }
-}
